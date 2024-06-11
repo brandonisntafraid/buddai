@@ -1,5 +1,4 @@
 # buddai
-Buddai - The leader in Technological and Human Development and Integration
 Meet Buddai, a revolutionary language designed to make communicating with technology as natural as chatting with a friend. Buddai understands the way humans talk, making interactions with machines feel smooth and intuitive.
 
 Why Buddai is Special:
